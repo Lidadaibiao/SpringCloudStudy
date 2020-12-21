@@ -1,0 +1,13 @@
+#配置端口
+server:
+  port: 8002
+
+#Eureka配置
+eureka:
+  instance:
+    hostname: localhost #Eureka服务器实例名称
+  client:
+    register-with-eureka: false #表示是否向Eureka注册自己，既然是server提供注册与发现 所以自己不注册的
+    fetch-registry: false #fetch-registry如果为false，则表示自己为注册中心
+    service-url: #监控页面 我们访问的 提供监控的页面
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
