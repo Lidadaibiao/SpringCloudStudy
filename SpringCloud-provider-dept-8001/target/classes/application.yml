@@ -21,7 +21,7 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8002/eureka/
+      defaultZone: http://eureka8002.com:8002/eureka/,http://eureka8003.com:8003/eureka/,http://eureka8001.com:8001/eureka/
   instance:
     instance-id: SpringCloud-provider-dept-8001 #可以通过这个任意修改Eureka注册实例显示的status信息
 

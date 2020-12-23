@@ -6,13 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringCloud-provider-dept-8001" />
-        <module name="SpringCloud-api" />
+        <module name="SpringCloud-EurEka-Server-8003" />
         <module name="SpringCloud-Consumer-dept-80" />
+        <module name="SpringCloud-EurEka-Server-8005" />
+        <module name="SpringCloud-EurEka-Server-8004" />
+        <module name="SpringCloud-api" />
         <module name="SpringCloud-EurEka-Server-8002" />
+        <module name="SpringCloud-provider-dept-8001" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SpringCloud-EurEka-Server-8005" target="1.8" />
       <module name="Study1" target="1.5" />
     </bytecodeTargetLevel>
   </component>

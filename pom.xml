@@ -12,6 +12,9 @@
         <module>SpringCloud-provider-dept-8001</module>
         <module>SpringCloud-Consumer-dept-80</module>
         <module>SpringCloud-EurEka-Server-8002</module>
+        <module>SpringCloud-EurEka-Server-8003</module>
+        <module>SpringCloud-EurEka-Server-8004</module>
+        <module>SpringCloud-EurEka-Server-8005</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
