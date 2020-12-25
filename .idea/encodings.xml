@@ -13,5 +13,9 @@
     <file url="file://$PROJECT_DIR$/SpringCloud-api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-provider-dept-8001/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCloud-provider-dept-8001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/resources" charset="UTF-8" />
   </component>
 </project>

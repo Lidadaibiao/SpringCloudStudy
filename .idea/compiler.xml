@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="SpringCloud-EurEka-Server-8003" />
+        <module name="SpringCloud-provider-dept-8005" />
         <module name="SpringCloud-Consumer-dept-80" />
+        <module name="SpringCloud-provider-dept-8006" />
         <module name="SpringCloud-EurEka-Server-8005" />
         <module name="SpringCloud-EurEka-Server-8004" />
         <module name="SpringCloud-api" />

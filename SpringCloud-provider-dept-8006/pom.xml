@@ -9,7 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>SpringCloud-provider-dept-8001</artifactId>
+    <artifactId>SpringCloud-provider-dept-8006</artifactId>
+
     <dependencies>
         <!--我们需要拿到实体类，所以需要配置API module-->
         <dependency>
@@ -76,5 +77,4 @@
             <artifactId>spring-boot-devtools</artifactId>
         </dependency>
     </dependencies>
-
 </project>
