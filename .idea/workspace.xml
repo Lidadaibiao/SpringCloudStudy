@@ -2,36 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3ed09fe-65e1-48d2-a9f4-8e8db90df4b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/SpringCloud-provider-dept-8005.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/java/com/lidadaibiao/springcloud/DeptProvider_8005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/java/com/lidadaibiao/springcloud/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/java/com/lidadaibiao/springcloud/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/java/com/lidadaibiao/springcloud/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/java/com/lidadaibiao/springcloud/service/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/resources/mybatis/mapper/DeptDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8005/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/SpringCloud-provider-dept-8006.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/java/com/lidadaibiao/springcloud/DeptProvider_8006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/java/com/lidadaibiao/springcloud/controller/DeptController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/java/com/lidadaibiao/springcloud/dao/DeptDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/java/com/lidadaibiao/springcloud/service/DeptService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/java/com/lidadaibiao/springcloud/service/DeptServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/resources/mybatis/mapper/DeptDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/resources/mybatis/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Consumer-dept-feign/SpringCloud-Consumer-dept-feign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Consumer-dept-feign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Consumer-dept-feign/src/main/java/com/lidadaibiao/springcloud/FeignDeptConsumer_80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Consumer-dept-feign/src/main/java/com/lidadaibiao/springcloud/config/ConfigBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Consumer-dept-feign/src/main/java/com/lidadaibiao/springcloud/controller/DeptConsumerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Consumer-dept-feign/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-api/src/main/java/com/lidadaibiao/springcloud/service/DeptClientService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/70af1a91-f365-442b-9cde-a4386dd60cb5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/70af1a91-f365-442b-9cde-a4386dd60cb5.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCloud-Consumer-dept-80/src/main/java/com/lidadaibiao/springcloud/config/ConfigBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud-Consumer-dept-80/src/main/java/com/lidadaibiao/springcloud/config/ConfigBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCloud-Consumer-dept-80/target/classes/com/lidadaibiao/springcloud/DeptConsumer_80.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud-Consumer-dept-80/target/classes/com/lidadaibiao/springcloud/DeptConsumer_80.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringCloud-provider-dept-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud-provider-dept-8001/target/classes/com/lidadaibiao/springcloud/controller/DeptController.class" beforeDir="false" afterPath="$PROJECT_DIR$/SpringCloud-provider-dept-8001/target/classes/com/lidadaibiao/springcloud/controller/DeptController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,8 +49,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -118,11 +100,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringCloud-provider-dept-8006/src/main/java/com/lidadaibiao/springcloud/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -130,27 +112,14 @@
       <recent name="com.lidadaibiao.springcloud.dao" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Develop\JAVA\SpringCloudStudy\SpringCloud-Consumer-dept-feign\src\main\java\com\lidadaibiao\springcloud" />
       <recent name="F:\Develop\JAVA\SpringCloudStudy\SpringCloud-provider-dept-8006\src\main\java\com\lidadaibiao\springcloud\service" />
       <recent name="F:\Develop\JAVA\SpringCloudStudy\SpringCloud-provider-dept-8005\src\main\java\com\lidadaibiao\springcloud" />
       <recent name="F:\Develop\JAVA\SpringCloudStudy\SpringCloud-provider-dept-8006\src\main\resources" />
       <recent name="F:\Develop\JAVA\SpringCloudStudy\SpringCloud-provider-dept-8005\src\main\resources" />
-      <recent name="F:\Develop\JAVA\SpringCloudStudy\SpringCloud-EurEka-Server-8003\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.DeptProvider_8006">
-    <configuration name="DeptConsumer_80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="SpringCloud-Consumer-dept-80" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lidadaibiao.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lidadaibiao.springcloud.DeptConsumer_80" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.FeignDeptConsumer_80">
     <configuration name="DeptProvider_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="SpringCloud-provider-dept-8001" />
       <extension name="coverage">
@@ -190,6 +159,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FeignDeptConsumer_80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringCloud-Consumer-dept-feign" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lidadaibiao.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lidadaibiao.springcloud.FeignDeptConsumer_80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringCloudEurekaServer_8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="SpringCloud-EurEka-Server-8002" />
       <extension name="coverage">
@@ -205,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.DeptProvider_8006" />
-        <item itemvalue="Spring Boot.DeptProvider_8005" />
-        <item itemvalue="Spring Boot.DeptConsumer_80" />
+        <item itemvalue="Spring Boot.FeignDeptConsumer_80" />
         <item itemvalue="Spring Boot.DeptProvider_8001" />
+        <item itemvalue="Spring Boot.DeptProvider_8005" />
         <item itemvalue="Spring Boot.SpringCloudEurekaServer_8002" />
+        <item itemvalue="Spring Boot.DeptProvider_8006" />
       </list>
     </recent_temporary>
   </component>
@@ -218,12 +200,7 @@
       <list>
         <serviceView>
           <treeState>
-            <expand>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="root:MySQL - @localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </treeState>
         </serviceView>
@@ -248,7 +225,10 @@
       <workItem from="1608707198750" duration="4005000" />
       <workItem from="1608771792842" duration="7515000" />
       <workItem from="1608858217463" duration="35000" />
-      <workItem from="1608864644795" duration="6681000" />
+      <workItem from="1608864644795" duration="7817000" />
+      <workItem from="1609119111798" duration="9430000" />
+      <workItem from="1609149983580" duration="914000" />
+      <workItem from="1609204944039" duration="4421000" />
     </task>
     <task id="LOCAL-00001" summary="这里是基于REST环境下&#10;Eureka服务注册与发现的Demon与学习。">
       <created>1608541701562</created>
@@ -278,7 +258,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608781320656</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="创建多个提供注册者 通过Ribbon实现负载均衡">
+      <created>1608881401600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608881401600</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,13 +277,14 @@
     <MESSAGE value="REST环境操作步骤&#10;Eureka服务注册与发现操作步骤" />
     <MESSAGE value="增加了集群配置" />
     <MESSAGE value="利用Ribbon&#10;进行负载均衡" />
-    <option name="LAST_COMMIT_MESSAGE" value="利用Ribbon&#10;进行负载均衡" />
+    <MESSAGE value="创建多个提供注册者 通过Ribbon实现负载均衡" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建多个提供注册者 通过Ribbon实现负载均衡" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="39" key="#Project_Structure" timestamp="1608877356266">
+    <state x="233" y="39" key="#Project_Structure" timestamp="1609141792156">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="233" y="39" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1608877356266" />
+    <state x="233" y="39" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1609141792156" />
     <state x="371" y="135" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1608262731496">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -309,10 +297,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="446" y="90" key="#com.intellij.ide.util.MemberChooser/0.0.1280.760@0.0.1280.760" timestamp="1608262752167" />
-    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1608781319753">
+    <state x="105" y="0" key="CommitChangelistDialog2" timestamp="1608881400637">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1608781319753" />
+    <state x="105" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1608881400637" />
     <state x="422" y="136" key="FileChooserDialogImpl" timestamp="1608877416142">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -321,46 +309,62 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="488" y="271" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1608709263578" />
-    <state width="1238" height="277" key="GridCell.Tab.0.bottom" timestamp="1608880439973">
+    <state width="1238" height="237" key="GridCell.Tab.0.bottom" timestamp="1609209365081">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="277" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1608880439973" />
-    <state width="1238" height="277" key="GridCell.Tab.0.center" timestamp="1608880439973">
+    <state width="1238" height="237" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1609209365081" />
+    <state width="1238" height="237" key="GridCell.Tab.0.center" timestamp="1609209365081">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="277" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1608880439973" />
-    <state width="1238" height="277" key="GridCell.Tab.0.left" timestamp="1608880439973">
+    <state width="1238" height="237" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1609209365081" />
+    <state width="1238" height="237" key="GridCell.Tab.0.left" timestamp="1609209365081">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="277" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1608880439973" />
-    <state width="1238" height="277" key="GridCell.Tab.0.right" timestamp="1608880439973">
+    <state width="1238" height="237" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1609209365081" />
+    <state width="1238" height="237" key="GridCell.Tab.0.right" timestamp="1609209365081">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="277" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1608880439973" />
-    <state width="1238" height="277" key="GridCell.Tab.1.bottom" timestamp="1608880439973">
+    <state width="1238" height="237" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1609209365081" />
+    <state width="1238" height="237" key="GridCell.Tab.1.bottom" timestamp="1609209365082">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="277" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1608880439973" />
-    <state width="1238" height="277" key="GridCell.Tab.1.center" timestamp="1608880439973">
+    <state width="1238" height="237" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1609209365082" />
+    <state width="1238" height="237" key="GridCell.Tab.1.center" timestamp="1609209365081">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="277" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1608880439973" />
-    <state width="1238" height="277" key="GridCell.Tab.1.left" timestamp="1608880439973">
+    <state width="1238" height="237" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1609209365081" />
+    <state width="1238" height="237" key="GridCell.Tab.1.left" timestamp="1609209365081">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="277" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1608880439973" />
-    <state width="1238" height="277" key="GridCell.Tab.1.right" timestamp="1608880439973">
+    <state width="1238" height="237" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1609209365081" />
+    <state width="1238" height="237" key="GridCell.Tab.1.right" timestamp="1609209365082">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="277" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1608880439973" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1608877730657">
+    <state width="1238" height="237" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1609209365082" />
+    <state width="1238" height="226" key="GridCell.Tab.2.bottom" timestamp="1609151430353">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1608877730657" />
-    <state x="233" y="113" key="Vcs.Push.Dialog.v2" timestamp="1608781324266">
+    <state width="1238" height="226" key="GridCell.Tab.2.bottom/0.0.1280.760@0.0.1280.760" timestamp="1609151430353" />
+    <state width="1238" height="226" key="GridCell.Tab.2.center" timestamp="1609151430353">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="233" y="113" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1608781324266" />
+    <state width="1238" height="226" key="GridCell.Tab.2.center/0.0.1280.760@0.0.1280.760" timestamp="1609151430353" />
+    <state width="1238" height="226" key="GridCell.Tab.2.left" timestamp="1609151430353">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.2.left/0.0.1280.760@0.0.1280.760" timestamp="1609151430353" />
+    <state width="1238" height="226" key="GridCell.Tab.2.right" timestamp="1609151430353">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1238" height="226" key="GridCell.Tab.2.right/0.0.1280.760@0.0.1280.760" timestamp="1609151430353" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1609205672025">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1609205672025" />
+    <state x="233" y="113" key="Vcs.Push.Dialog.v2" timestamp="1608881404301">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="113" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1608881404301" />
     <state x="357" y="20" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1608254890476">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -369,13 +373,24 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="498" y="127" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1280.760@0.0.1280.760" timestamp="1608867081959" />
-    <state x="14" y="120" key="new project wizard" timestamp="1608877501239">
+    <state x="14" y="120" key="new project wizard" timestamp="1609139699587">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="14" y="120" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1608877501239" />
+    <state x="14" y="120" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1609139699587" />
     <state x="307" y="86" width="672" height="678" key="search.everywhere.popup" timestamp="1608537306307">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="307" y="86" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1608537306307" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/SpringCloud-Consumer-dept-feign/src/main/java/com/lidadaibiao/springcloud/controller/DeptConsumerController.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

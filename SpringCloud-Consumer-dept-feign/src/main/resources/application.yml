@@ -1,0 +1,11 @@
+server:
+  port: 9090
+#Eureka配置
+eureka:
+  client:
+    register-with-eureka: false #表示是否向Eureka注册自己，既然是server提供注册与发现 所以自己不注册的
+    service-url: #监控页面 我们访问的 提供监控的页面
+      #单机
+      #defaultZone: http://eureka8002.com:8002/eureka/
+      #集群
+      defaultZone: http://eureka8003.com:8003/eureka/,http://eureka8004.com:8004/eureka/,http://eureka8002.com:8002/eureka/
