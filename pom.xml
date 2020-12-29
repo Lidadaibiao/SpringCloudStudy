@@ -20,6 +20,7 @@
         <module>SpringCloud-provider-dept-8005</module>
         <module>SpringCloud-provider-dept-8006</module>
         <module>SpringCloud-Consumer-dept-feign</module>
+        <module>SpringCloud-provider-dept-hystrix-8001</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

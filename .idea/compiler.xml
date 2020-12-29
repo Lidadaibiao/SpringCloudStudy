@@ -15,6 +15,7 @@
         <module name="SpringCloud-EurEka-Server-8003" />
         <module name="SpringCloud-EurEka-Server-8002" />
         <module name="SpringCloud-provider-dept-8001" />
+        <module name="SpringCloud-provider-dept-hystrix-8001" />
         <module name="SpringCloud-api" />
       </profile>
     </annotationProcessing>
