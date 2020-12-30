@@ -9,6 +9,7 @@
         <module name="SpringCloud-Consumer-dept-feign" />
         <module name="SpringCloud-provider-dept-8005" />
         <module name="SpringCloud-Consumer-dept-80" />
+        <module name="SpringCloud-Consumer-hystrix-dashboard" />
         <module name="SpringCloud-provider-dept-8006" />
         <module name="SpringCloud-EurEka-Server-8005" />
         <module name="SpringCloud-EurEka-Server-8004" />

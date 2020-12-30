@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import java.util.List;
 
-@FeignClient(value = "SPRINGCLOUD-PROVIDER-DEPT")  //完成对服务提供方的接口绑定
+@FeignClient(value = "SPRINGCLOUD-PROVIDER-DEPT",fallbackFactory = DeptClientServiceFallBackFactory.class)  //完成对服务提供方的接口绑定
 @Component
 public interface DeptClientService {
 

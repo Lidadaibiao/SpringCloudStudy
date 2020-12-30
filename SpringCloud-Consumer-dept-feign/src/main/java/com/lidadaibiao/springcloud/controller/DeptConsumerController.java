@@ -19,7 +19,7 @@ public class DeptConsumerController {
        return deptClientService.addDept(dept);
     }
 
-    @RequestMapping("/consumer/dept/query{id}")
+    @RequestMapping("/consumer/dept/query/{id}")
     public Dept get(@PathVariable("id")long id){
         return deptClientService.queryById(id);
     }

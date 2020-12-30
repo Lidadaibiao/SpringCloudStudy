@@ -1,5 +1,9 @@
 server:
   port: 9090
+#开启feign服务降级feign.hystrix
+feign:
+  hystrix:
+    enabled: true
 #Eureka配置
 eureka:
   client:
@@ -9,3 +13,4 @@ eureka:
       #defaultZone: http://eureka8002.com:8002/eureka/
       #集群
       defaultZone: http://eureka8003.com:8003/eureka/,http://eureka8004.com:8004/eureka/,http://eureka8002.com:8002/eureka/
+
